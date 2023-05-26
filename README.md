@@ -1,2 +1,1 @@
-# fluxapp
-The social media focused on interaction
+The next-gen social media!!!
